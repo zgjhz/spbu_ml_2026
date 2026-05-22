@@ -3,3 +3,14 @@ ml/
 train*
 preds/
 test*
+.conda/
+.conda
+.*
+.conda/
+conda/
+venv/
+catboost_info/
+competitions/preds/
+*.csv
+*.tsv
+*.tfevents*
