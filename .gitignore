@@ -19,3 +19,6 @@ competitions/preds/
 catboost_info/
 competitions/preds/
 *.tfevents*
+competitions/train_3.csv
+competitions/test_3.csv
+*.csv
